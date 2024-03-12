@@ -1,0 +1,12 @@
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Core\obj\Debug\net6.0\StocksApp.Core.csproj.AssemblyReference.cache
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Core\obj\Debug\net6.0\StocksApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Core\obj\Debug\net6.0\StocksApp.Core.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Core\obj\Debug\net6.0\StocksApp.Core.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Core\obj\Debug\net6.0\StocksApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Core\bin\Debug\net6.0\StocksApp.Core.deps.json
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Core\bin\Debug\net6.0\StocksApp.Core.dll
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Core\bin\Debug\net6.0\StocksApp.Core.pdb
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Core\obj\Debug\net6.0\StocksApp.Core.dll
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Core\obj\Debug\net6.0\refint\StocksApp.Core.dll
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Core\obj\Debug\net6.0\StocksApp.Core.pdb
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Core\obj\Debug\net6.0\ref\StocksApp.Core.dll

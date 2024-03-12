@@ -1,0 +1,15 @@
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Infrastructure\obj\Debug\net6.0\StocksApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Infrastructure\obj\Debug\net6.0\StocksApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Infrastructure\obj\Debug\net6.0\StocksApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Infrastructure\obj\Debug\net6.0\StocksApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Infrastructure\obj\Debug\net6.0\StocksApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Infrastructure\bin\Debug\net6.0\StocksApp.Infrastructure.deps.json
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Infrastructure\bin\Debug\net6.0\StocksApp.Infrastructure.dll
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Infrastructure\bin\Debug\net6.0\StocksApp.Infrastructure.pdb
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Infrastructure\bin\Debug\net6.0\StocksApp.Core.dll
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Infrastructure\bin\Debug\net6.0\StocksApp.Core.pdb
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Infrastructure\obj\Debug\net6.0\StocksAp.1E3393BE.Up2Date
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Infrastructure\obj\Debug\net6.0\StocksApp.Infrastructure.dll
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Infrastructure\obj\Debug\net6.0\refint\StocksApp.Infrastructure.dll
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Infrastructure\obj\Debug\net6.0\StocksApp.Infrastructure.pdb
+C:\Users\Arthur\source\repos\StocksAppSolution\StocksApp.Infrastructure\obj\Debug\net6.0\ref\StocksApp.Infrastructure.dll

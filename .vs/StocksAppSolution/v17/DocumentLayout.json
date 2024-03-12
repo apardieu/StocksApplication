@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60FB0145-33BF-4C56-8A90-35A7F9D8CFF5}|StocksApp.Infrastructure\\StocksApp.Infrastructure.csproj|c:\\users\\arthur\\source\\repos\\stocksappsolution\\stocksapp.infrastructure\\repositories\\finnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FB0145-33BF-4C56-8A90-35A7F9D8CFF5}|StocksApp.Infrastructure\\StocksApp.Infrastructure.csproj|solutionrelative:stocksapp.infrastructure\\repositories\\finnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4413DF-B1F1-4A0F-9D1F-FE67F104EF53}|StocksApp\\StocksApp.UI.csproj|c:\\users\\arthur\\source\\repos\\stocksappsolution\\stocksapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D4413DF-B1F1-4A0F-9D1F-FE67F104EF53}|StocksApp\\StocksApp.UI.csproj|solutionrelative:stocksapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4413DF-B1F1-4A0F-9D1F-FE67F104EF53}|StocksApp\\StocksApp.UI.csproj|c:\\users\\arthur\\source\\repos\\stocksappsolution\\stocksapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D4413DF-B1F1-4A0F-9D1F-FE67F104EF53}|StocksApp\\StocksApp.UI.csproj|solutionrelative:stocksapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4413DF-B1F1-4A0F-9D1F-FE67F104EF53}|StocksApp\\StocksApp.UI.csproj|c:\\users\\arthur\\source\\repos\\stocksappsolution\\stocksapp\\stocksapp.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D4413DF-B1F1-4A0F-9D1F-FE67F104EF53}|StocksApp\\StocksApp.UI.csproj|solutionrelative:stocksapp\\stocksapp.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FB0145-33BF-4C56-8A90-35A7F9D8CFF5}|StocksApp.Infrastructure\\StocksApp.Infrastructure.csproj|c:\\users\\arthur\\source\\repos\\stocksappsolution\\stocksapp.infrastructure\\stocksapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60FB0145-33BF-4C56-8A90-35A7F9D8CFF5}|StocksApp.Infrastructure\\StocksApp.Infrastructure.csproj|solutionrelative:stocksapp.infrastructure\\stocksapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E29122-CD62-4C67-9D45-00FAE6FB5B5A}|StocksApp.Core\\StocksApp.Core.csproj|c:\\users\\arthur\\source\\repos\\stocksappsolution\\stocksapp.core\\stocksapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99E29122-CD62-4C67-9D45-00FAE6FB5B5A}|StocksApp.Core\\StocksApp.Core.csproj|solutionrelative:stocksapp.core\\stocksapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E29122-CD62-4C67-9D45-00FAE6FB5B5A}|StocksApp.Core\\StocksApp.Core.csproj|c:\\users\\arthur\\source\\repos\\stocksappsolution\\stocksapp.core\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E29122-CD62-4C67-9D45-00FAE6FB5B5A}|StocksApp.Core\\StocksApp.Core.csproj|solutionrelative:stocksapp.core\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.Infrastructure\\Migrations\\20240228143719_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StocksApp.Infrastructure\\Migrations\\20240228143719_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E29122-CD62-4C67-9D45-00FAE6FB5B5A}|StocksApp.Core\\StocksApp.Core.csproj|c:\\users\\arthur\\source\\repos\\stocksappsolution\\stocksapp.core\\services\\stocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E29122-CD62-4C67-9D45-00FAE6FB5B5A}|StocksApp.Core\\StocksApp.Core.csproj|solutionrelative:stocksapp.core\\services\\stocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39727530-B0E3-4532-BD7C-82978979FCD2}|StocksApp.IntegrationTests\\StocksApp.IntegrationTests.csproj|c:\\users\\arthur\\source\\repos\\stocksappsolution\\stocksapp.integrationtests\\stocksapp.integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39727530-B0E3-4532-BD7C-82978979FCD2}|StocksApp.IntegrationTests\\StocksApp.IntegrationTests.csproj|solutionrelative:stocksapp.integrationtests\\stocksapp.integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556D58E-50F2-42B2-AE49-9F3F3C0943B5}|StocksApp.ServiceTests\\StocksApp.ServiceTests.csproj|c:\\users\\arthur\\source\\repos\\stocksappsolution\\stocksapp.servicetests\\stocksapp.servicetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B556D58E-50F2-42B2-AE49-9F3F3C0943B5}|StocksApp.ServiceTests\\StocksApp.ServiceTests.csproj|solutionrelative:stocksapp.servicetests\\stocksapp.servicetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0B3DD9-77C5-439A-9E79-23FF1400022A}|StocksApp.ControllerTests\\StocksApp.ControllerTests.csproj|c:\\users\\arthur\\source\\repos\\stocksappsolution\\stocksapp.controllertests\\stocksapp.controllertests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA0B3DD9-77C5-439A-9E79-23FF1400022A}|StocksApp.ControllerTests\\StocksApp.ControllerTests.csproj|solutionrelative:stocksapp.controllertests\\stocksapp.controllertests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arthur\\.nuget\\packages\\epplus\\6.0.8\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinnhubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.Infrastructure\\Repositories\\FinnhubRepository.cs",
+              "RelativeDocumentMoniker": "StocksApp.Infrastructure\\Repositories\\FinnhubRepository.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.Infrastructure\\Repositories\\FinnhubRepository.cs",
+              "RelativeToolTip": "StocksApp.Infrastructure\\Repositories\\FinnhubRepository.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAIwFYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:40:57.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StocksApp.ControllerTests.csproj",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.ControllerTests\\StocksApp.ControllerTests.csproj",
+              "RelativeDocumentMoniker": "StocksApp.ControllerTests\\StocksApp.ControllerTests.csproj",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.ControllerTests\\StocksApp.ControllerTests.csproj",
+              "RelativeToolTip": "StocksApp.ControllerTests\\StocksApp.ControllerTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-28T14:10:55.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StocksApp.UI.csproj",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp\\StocksApp.UI.csproj",
+              "RelativeDocumentMoniker": "StocksApp\\StocksApp.UI.csproj",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp\\StocksApp.UI.csproj",
+              "RelativeToolTip": "StocksApp\\StocksApp.UI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-27T15:20:44.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StocksApp.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.Core\\StocksApp.Core.csproj",
+              "RelativeDocumentMoniker": "StocksApp.Core\\StocksApp.Core.csproj",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.Core\\StocksApp.Core.csproj",
+              "RelativeToolTip": "StocksApp.Core\\StocksApp.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-28T13:47:30.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StocksApp.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.Infrastructure\\StocksApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "StocksApp.Infrastructure\\StocksApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.Infrastructure\\StocksApp.Infrastructure.csproj",
+              "RelativeToolTip": "StocksApp.Infrastructure\\StocksApp.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-27T15:20:08.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp\\appsettings.json",
+              "RelativeDocumentMoniker": "StocksApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp\\appsettings.json",
+              "RelativeToolTip": "StocksApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T14:36:01.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StocksApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StocksApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T15:29:20.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.Core\\Services\\FinnhubService.cs",
+              "RelativeDocumentMoniker": "StocksApp.Core\\Services\\FinnhubService.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.Core\\Services\\FinnhubService.cs",
+              "RelativeToolTip": "StocksApp.Core\\Services\\FinnhubService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:26:41.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StocksService.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.Core\\Services\\StocksService.cs",
+              "RelativeDocumentMoniker": "StocksApp.Core\\Services\\StocksService.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.Core\\Services\\StocksService.cs",
+              "RelativeToolTip": "StocksApp.Core\\Services\\StocksService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:31:54.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240228143719_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.Infrastructure\\Migrations\\20240228143719_Initial.cs",
+              "RelativeDocumentMoniker": "StocksApp.Infrastructure\\Migrations\\20240228143719_Initial.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.Infrastructure\\Migrations\\20240228143719_Initial.cs",
+              "RelativeToolTip": "StocksApp.Infrastructure\\Migrations\\20240228143719_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:37:19.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StocksApp.IntegrationTests.csproj",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.IntegrationTests\\StocksApp.IntegrationTests.csproj",
+              "RelativeDocumentMoniker": "StocksApp.IntegrationTests\\StocksApp.IntegrationTests.csproj",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.IntegrationTests\\StocksApp.IntegrationTests.csproj",
+              "RelativeToolTip": "StocksApp.IntegrationTests\\StocksApp.IntegrationTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-28T14:14:40.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StocksApp.ServiceTests.csproj",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.ServiceTests\\StocksApp.ServiceTests.csproj",
+              "RelativeDocumentMoniker": "StocksApp.ServiceTests\\StocksApp.ServiceTests.csproj",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\StocksAppSolution\\StocksApp.ServiceTests\\StocksApp.ServiceTests.csproj",
+              "RelativeToolTip": "StocksApp.ServiceTests\\StocksApp.ServiceTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-28T14:18:25.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Arthur\\.nuget\\packages\\epplus\\6.0.8\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\epplus\\6.0.8\\readme.txt",
+              "ToolTip": "C:\\Users\\Arthur\\.nuget\\packages\\epplus\\6.0.8\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\epplus\\6.0.8\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-02-28T13:48:34.781Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

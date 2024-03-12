@@ -1,0 +1,67 @@
+﻿@model StocksApp.Models.StockTrade
+@{
+    ViewBag.Title = "Index";
+    ViewBag.CurrentUrl = "~/Trade/Index";
+}
+
+<div class="text-grey ml">
+    <span Stocks></span>
+    <i class="fa-solid fa-caret-right"></i>
+    <span>@Model.StockName</span>
+</div>
+
+<form method="post">
+    <div class="box trading-panel">
+        <div class="flex trading-panel-flex">
+            <div id="stock-price-panel">
+                <div class="stock">
+                    <h1 class="stock">@Model.StockName (@Model.StockSymbol)</h1>
+                    <h2 class="stock-price"><small class="text-grey">$</small><span class="price">@Model.Price.ToString("N")</span> </h2>
+                </div>
+                <div class="date"></div>
+            </div>
+
+
+            <div id="new-order-panel">
+                <div class="flex flex-direction-vertical">
+                    <h3 class="text-grey mb">New Order</h3>
+                    <label for="Quantity" class="mt">Quantity</label>
+                    <input type="number" asp-for="Quantity" name="Quantity" min="1" max="10000" placeholder="Quantity" required="required" class="form-input mb" autofocus="autofocus" />
+                </div>
+                <div class="button-panel">
+                    <button type="submit" formaction="~/Trade/SellOrder" class="button-red-back button trading-button sell-button">
+                        <i class="fa-solid fa-arrow-up"></i>
+                        <span>Sell</span>
+                    </button>
+                    <button type="submit"  formaction="~/Trade/BuyOrder" class="button-green-back button trading-button buy-button">
+                        <i class="fa-solid fa-arrow-down"></i>
+                        <span>Buy</span>
+                    </button>
+
+                    @if (ViewBag.Errors != null)
+                    {
+                        <div class="text-red mt">
+                            <ul>
+                                @foreach (string error in ViewBag.Errors)
+                                {
+                                    <li class="ml">@error</li>
+                                }
+                            </ul>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <input type="hidden" asp-for="StockSymbol"/>
+    <input type="hidden" asp-for="StockName" />
+    <input type="hidden" asp-for="Price"/>
+    <input type="hidden" id="FinnhubToken" value="@ViewBag.FinnhubToken" />
+
+</form>
+
+@section Scripts {
+    <script src="~/Scripts/FinnhubScript.js"></script>
+}
